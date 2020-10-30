@@ -26,5 +26,8 @@
     "psr-4": {
       "Simplon\\Request\\": "src/"
     }
+  },
+  "replace": {
+    "simplon/request": "1.1.*"
   }
 }
